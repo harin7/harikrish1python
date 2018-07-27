@@ -2,7 +2,7 @@
 n=int(raw_input())
 if(n%2==0):
      print("even")
- elif(n%2==1):
-     print("odd")
- else:
+ elif(n == 0):
      print("invalid")
+ else:
+     print("Odd")
