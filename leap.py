@@ -1,7 +1,7 @@
-n=int(raw_input())
-if(n%4==0):
+s=int(raw_input())
+if(s%4==0):
        print("yes")
-elif(n%400==0):
+elif(s%400==0):
        print("yes")
 else:
        print("no")
