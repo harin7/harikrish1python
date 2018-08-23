@@ -1,4 +1,4 @@
-k=[]
+j=[]
 h=input().split()
-k.append(k)
-print(max(k))
+j.append(j)
+print(max(h))
