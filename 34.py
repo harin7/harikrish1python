@@ -1,2 +1,2 @@
 h=input()
-print(len(h.split())+1)
+print(len(h.split()))
