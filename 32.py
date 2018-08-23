@@ -1,3 +1,3 @@
 
-s = input("")
-print(len(s.split()))
+h = input("")
+print(len(h.split()))
