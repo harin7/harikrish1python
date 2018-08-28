@@ -9,4 +9,4 @@ for i in range(0,n):
 s=sorted(new)
 k=len(s)
 for i in range(0,k):
-	print s[i],
+	print (s[i]),
