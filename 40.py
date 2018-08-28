@@ -1,4 +1,3 @@
-
 n= int(input())
 h1=1
 h2=1
